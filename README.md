@@ -22,3 +22,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+
+
+## Link
+Notion | https://bit.ly/4t0gZnt
+LinkedIn | https://www.linkedin.com/in/hotae-hwang-427961395/
