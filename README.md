@@ -25,5 +25,6 @@
 
 
 ## Link
-Notion | https://bit.ly/4t0gZnt
-LinkedIn | https://www.linkedin.com/in/hotae-hwang-427961395/
+[Notion ](https://bit.ly/46xGJOn)| 
+
+[LinkedIn](https://www.linkedin.com/in/hotae-hwang-427961395/) |
