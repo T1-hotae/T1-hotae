@@ -1,4 +1,4 @@
-# 안녕하세요 프론트엔드 개발자 황호태입니다.
+# 👋 Hi, I'm Hotae Hwang
 
 사용자 경험과 협업을 중요하게 생각하는 프론트엔드 개발자 황호태입니다.
 
@@ -50,26 +50,46 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=React\&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square\&logo=React\&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=TypeScript\&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square\&logo=Redux\&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square\&logo=react\&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square\&logo=React%20Query\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square\&logo=Tailwind%20CSS\&logoColor=white)
 
-### Backend & Infra
+### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=FastAPI\&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square\&logo=socket.io\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square\&logo=spring-boot\&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square\&logo=socket.io\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=JSON%20web%20tokens\&logoColor=white)
+
+### Database & Infra
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=PostgreSQL\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=SQLite\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=Redis\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=Docker\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=Nginx\&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square\&logo=Amazon%20AWS\&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square\&logo=AmazonAWS\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=Cloudflare\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=Vercel\&logoColor=white)
 
-### Tools
+### Tools & Collaboration
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=Git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=GitHub\&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square\&logo=Notion\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square\&logo=Swagger\&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=Figma\&logoColor=white)
+
+---
+
+## 🤝 Collaboration & Documentation
+
+| Project              | Description          | Link                                                                                |
+| -------------------- | -------------------- | ----------------------------------------------------------------------------------- |
+| Moyo Scrum Workspace | 스프린트 기반 협업 및 프로젝트 관리 | [Notion](https://oval-earwig-fa7.notion.site/Moyo-28c51f9d46138061a6f2fa9cb0ea0dab) |
 
 ---
 
@@ -83,43 +103,12 @@
 
 ---
 
-## 💡 Interested In
-
-* Frontend Architecture
-* Mobile App Development
-* Real-time Communication
-* UX 개선과 사용자 흐름 설계
-* 유지보수성과 코드 품질 개선
-
----
-
-## 🤝 Collaboration
-
-* 이슈 및 작업 단위 문서화
-* 코드 리뷰 기반 협업
-* Git Flow 기반 브랜치 전략 경험
-* Agile / Sprint 방식 프로젝트 경험
-
----
-
 ## 🌱 Currently Learning
 
 * Next.js App Router
-* React Native 성능 최적화
+* React Native Optimization
 * Spring Boot
-* 대규모 트래픽 환경에서의 서비스 설계
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=T1-hotae&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1-hotae&layout=compact&theme=tokyonight" />
-
-</div>
+* System Design
 
 ---
 
