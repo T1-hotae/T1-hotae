@@ -113,9 +113,13 @@
 
 ## 📈 GitHub Stats
 
-![Hotae's GitHub stats](https://github-readme-stats.vercel.app/api?username=T1-hotae&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T1-hotae&show_icons=true"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1-hotae&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1-hotae&layout=compact"/>
+</p>
 
 ---
 
