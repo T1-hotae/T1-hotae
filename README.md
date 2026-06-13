@@ -114,6 +114,6 @@
 
 ## 📫 Contact
 
-* Email: [202104390@kangnam.ac.kr](mailto:202104390@kangnam.ac.kr)
+* Email: [hotae0321@naver.com](mailto:hotae0321@naver.com)
 * GitHub: https://github.com/T1-hotae
 * LinkedIn: https://www.linkedin.com/in/hotae-hwang-427961395/
