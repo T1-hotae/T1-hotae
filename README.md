@@ -22,7 +22,7 @@
 * NAVER 지도 API 연동 캠퍼스맵 구현
 * AWS EC2 → Oracle Cloud 서버 이전 (비용 최적화)
 * App Store · Google Play 출시 완료 | 실사용자 800명+
-* [App Store](https://apps.apple.com/kr/app/강림이/id6758569535) · [Play Store](https://play.google.com/store/apps/details?id=com.campusnotice.fe)
+* [App Store](https://apps.apple.com/kr/app/강림이/id6758569535) · [Play Store](https://play.google.com/store/apps/details?id=com.campusnotice.fe) · [GitHub (Frontend)](https://github.com/CampusNotice/Frontend) · [GitHub (Backend)](https://github.com/CampusNotice/Backend) · [시연 영상](https://youtube.com/shorts/K7Fhfh7sPzY?feature=share)
 
 ### 코드바이트 (2026.03 ~ 2026.06)
 > 개발자 면접 준비를 위한 CS 퀴즈 앱 — 스트릭·보상·소셜 랭킹 기능 포함
@@ -33,6 +33,7 @@
 * 일일 스크럼 · 스프린트 회고 주도
 * Spring Boot → Node.js + MongoDB 서버리스 구조로 개인 재구현 후 Vercel 배포
 * APK 배포 완료
+* [GitHub (App)](https://github.com/T1-hotae/Codebite-Light) · [GitHub (Backend)](https://github.com/T1-hotae/Codebite-backend-nodejs) · [시연 영상](https://youtube.com/shorts/AqkF0Z2CXk0?feature=share)
 
 ### 포폴 (2026.03 ~ 2026.06)
 > 개발자를 위한 포트폴리오 게시 + 팀원 모집 커뮤니티 플랫폼
@@ -43,6 +44,7 @@
 * Redis 기반 OTP 인증, Spring Security + JWT 인증 아키텍처 설계
 * Render + Docker Compose 배포
 * DB 테이블 23개 · API 엔드포인트 40개+ 규모
+* [GitHub (Frontend)](https://github.com/PoFol-Capstone/Frontend) · [GitHub (Backend)](https://github.com/PoFol-Capstone/Backend) · [데모](https://pofol-community.vercel.app/)
 
 ### 모요 (2025.09 ~ 2025.12)
 > Slack·밴드 UX를 참고해 개선한 커뮤니티 웹 서비스
@@ -53,7 +55,7 @@
 * AWS EC2 + Docker Compose + Nginx + Cloudflare 배포
 * CI/CD 파이프라인 구축 (GitHub Actions)
 * 일일 스크럼 · 스프린트 회고 주도
-* [시연 영상](https://youtu.be/EiS4uzRdQ9s)
+* [GitHub](https://github.com/Moyo-project/Moyo_front) · [시연 영상](https://youtu.be/EiS4uzRdQ9s)
 
 ### 강의실 자동점검 배정 시스템 (2026.03 ~ 운영 중)
 > 교학처 근로 중 발견한 수작업 배정 업무를 자동화한 React SPA
@@ -61,6 +63,7 @@
 * 4일 만에 개발 후 실제 근로학생들이 사용 중
 * AI 활용한 최적 배정 알고리즘 설계 (균등 배분 · 층수 최소화 · 퇴근 여유 고려)
 * 사용자 피드백 기반 지속적 개선 중
+* [GitHub](https://github.com/T1-hotae/Gyohak1Team) · [데모](https://gyohak1-team.vercel.app)
 
 ### 글줍 (2026.06 ~ 진행 중)
 > 한글 음절을 카메라로 촬영·수집해 오려붙인 듯한 메시지를 만드는 한글 랜섬노트 앱
@@ -68,6 +71,7 @@
 * React Native + expo-camera + Reanimated 기반 개발 중
 * 디자인학과 · 문화콘텐츠학과 팀원과 브랜드 로고 · 색감 · 와이어프레임부터 협업
 * 8월 초 출시 목표
+* [GitHub](https://github.com/T1-hotae/ransomenote)
 
 ### Yeflix - 영화 일기 (2026.04 ~ 운영 중)
 > 영화를 보고 별점 · 감상문을 기록하는 개인 영화 다이어리 서비스
@@ -76,6 +80,23 @@
 * Google 로그인 + Firestore 기반 개인 데이터 관리
 * OTT 바로가기 · 찜하기 · 태그 기능 구현
 * Vercel 배포
+* [GitHub](https://github.com/T1-hotae/yeflix) · [데모](https://yeflix-diary.vercel.app)
+
+### 응대가드 AI (2026.08 ~ 2026.09)
+> 실시간 위험 발화를 감지해 대응 문장과 조치를 안내하는 고객응대 근로자 보호 AI (EST AI Challengers 해커톤)
+
+* Next.js + FastAPI + LangChain/LangGraph + RAG 기반 팀 프로젝트
+* STT로 실시간 발화를 텍스트화해 위험도를 판단하고, 근거 문서 기반 대응 문장을 생성하는 구조
+* 기획서 초안 작성 및 화면 설계 담당
+* [GitHub (Frontend)](https://github.com/EuidaeguardAI/Frontend) · [GitHub (Backend)](https://github.com/EuidaeguardAI/Backend)
+
+### 문무니 Munmuni (2026.07)
+> 학사 문의를 줄이는 AI 학사 안내 서비스 (강냉 AI 부스트캠프, 팀장)
+
+* React + TypeScript + Vite + Firebase + OpenAI API 기반 개발
+* 팀장으로 서비스 기획 주도, 학생용·관리자용 프론트엔드 개발
+* 비전공자 팀원 2명과 함께 2일 만에 개발
+* [GitHub (학생용)](https://github.com/T1-hotae/hanon) · [GitHub (관리자용)](https://github.com/T1-hotae/munmuni-admin)
 
 ---
 
