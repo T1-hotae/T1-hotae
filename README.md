@@ -70,7 +70,6 @@
 
 * React Native + expo-camera + Reanimated 기반 개발 중
 * 디자인학과 · 문화콘텐츠학과 팀원과 브랜드 로고 · 색감 · 와이어프레임부터 협업
-* 8월 초 출시 목표
 * [GitHub](https://github.com/T1-hotae/ransomenote)
 
 ### Yeflix - 영화 일기 (2026.04 ~ 운영 중)
