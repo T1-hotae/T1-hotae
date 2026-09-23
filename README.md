@@ -22,7 +22,7 @@
 * NAVER 지도 API 연동 캠퍼스맵 구현
 * AWS EC2 → Oracle Cloud 서버 이전 (비용 최적화)
 * App Store · Google Play 출시 완료 | 실사용자 800명+
-* [App Store](https://apps.apple.com/kr/app/강림이/id6758569535) · [Play Store](https://play.google.com/store/apps/details?id=com.campusnotice.fe) · [GitHub (Frontend)](https://github.com/CampusNotice/Frontend) · [GitHub (Backend)](https://github.com/CampusNotice/Backend) · [시연 영상](https://youtube.com/shorts/K7Fhfh7sPzY?feature=share)
+* [App Store](https://apps.apple.com/kr/app/강림이/id6758569535) · [Play Store](https://play.google.com/store/apps/details?id=com.campusnotice.fe) · [GitHub (Frontend)](https://github.com/CampusNotice/Frontend) · [GitHub (Backend)](https://github.com/CampusNotice/Backend) · [시연 영상](https://youtu.be/7wnbnJiUuUk?si=CgaYdWQXYakfmy5p)
 
 ### 코드바이트 (2026.03 ~ 2026.06)
 > 개발자 면접 준비를 위한 CS 퀴즈 앱 — 스트릭·보상·소셜 랭킹 기능 포함
